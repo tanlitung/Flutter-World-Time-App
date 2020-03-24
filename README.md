@@ -9,7 +9,11 @@ $ cd Flutter-Wordl-Time-App
 ```
 ## Releasing the App
 To release the app, you need to edit the "key.properties" file file located at **android/key.properties**.
-Kindly refer to the [Build and Release Documentation] (https://flutter.dev/docs/deployment/android).
+
+Kindly refer to the [Build and Release Documentation](https://flutter.dev/docs/deployment/android).
 
 ## Credit
 Credit to Netninja for the awesome tutorial!
+
+## Preview
+![alt text](https://github.com/tanlitung388/Flutter-Wordl-Time-App/raw/master/worldtime.gif "Preview")
