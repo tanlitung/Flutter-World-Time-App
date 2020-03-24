@@ -1,16 +1,15 @@
-# worldtime
-
-A new Flutter application.
+# Flutter World Time App
+This is a Flutter app that can be used to view the time for different country.
 
 ## Getting Started
+Clone or download the repository.
+```
+$ git clone https://github.com/tanlitung388/Flutter-World-Time-App.git
+$ cd Flutter-Wordl-Time-App
+```
+## Releasing the App
+To release the app, you need to edit the "key.properties" file file located at **android/key.properties**.
+Kindly refer to the [Build and Release Documentation] (https://flutter.dev/docs/deployment/android).
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Credit
+Credit to Netninja for the awesome tutorial!
