@@ -4,7 +4,7 @@ This is a Flutter app that can be used to view the time for different country.
 ## Getting Started
 Clone or download the repository.
 ```
-$ git clone https://github.com/tanlitung388/Flutter-World-Time-App.git
+$ git clone https://github.com/tanlitung/Flutter-World-Time-App.git
 $ cd Flutter-World-Time-App
 ```
 ## Releasing the App
@@ -16,4 +16,4 @@ Kindly refer to the [Build and Release Documentation](https://flutter.dev/docs/d
 Credit to Netninja for the awesome tutorial!
 
 ## Preview
-![alt text](https://github.com/tanlitung388/Flutter-World-Time-App/raw/master/worldtime.gif "Preview")
+![alt text](https://github.com/tanlitung/Flutter-World-Time-App/raw/master/worldtime.gif "Preview")
